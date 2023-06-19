@@ -16,7 +16,7 @@ import {
 const data = [
   { id: 1, nombre: "Eddy", apellido: "Acaro" },
   { id: 2, nombre: "Santiago", apellido: "Granda" },
-  { id: 3, nombre: "Romel", apellido: "Jimeannez" },
+  { id: 3, nombre: "Romel", apellido: "Jimenez" },
   { id: 4, nombre: "Lady", apellido: "Ruiz" },
   { id: 5, nombre: "Marjorie", apellido: "Valdiviezo"},
 ];
